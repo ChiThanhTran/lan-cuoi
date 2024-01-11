@@ -1,0 +1,24 @@
+.tabs{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+}
+
+.tabs .tab-item{
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.tabs .tab-item:hover{
+    border-bottom: 1px solid blue;
+}
+
+.tab-panel-bai-viet{
+
+}
+
+.tab-panel-nguoi-dung{
+    display: none;
+}

@@ -1,0 +1,10 @@
+.user{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.post{
+    width: 100%;
+}
